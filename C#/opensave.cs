@@ -5,7 +5,8 @@ namespace saveandopen
   // Makes the function for opening files
         private void Openfile()
         {
-            // From Microsoft, so all rights go to them
+            // From Microsoft, so all rights go to them*
+            // This is mostly made by me, with the outline from the Microsoft documentation
             var fileContent = string.Empty;
             var filePath = string.Empty;
 
