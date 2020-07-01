@@ -5,6 +5,7 @@
 * their profiles: 
 * https://stackoverflow.com/users/850848/martin-prikryl
 * https://stackoverflow.com/users/1563422/danny-beckett
+* This code is in the public domain
 */
 
 using System.IO;
