@@ -2,6 +2,7 @@
 * The real people are:
 * Danny Beckett and Martin Prikryl 
 * On stackOverflow
+* Orginal question: https://stackoverflow.com/questions/217902/reading-writing-an-ini-file
 * their profiles: 
 * https://stackoverflow.com/users/850848/martin-prikryl
 * https://stackoverflow.com/users/1563422/danny-beckett
