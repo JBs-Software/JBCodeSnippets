@@ -1,0 +1,5 @@
+C:\Users\wayne\source\repos\JBCodeSnippets\JBCodeSnippets\bin\Release\JBCodeSnippets.dll
+C:\Users\wayne\source\repos\JBCodeSnippets\JBCodeSnippets\bin\Release\JBCodeSnippets.pdb
+C:\Users\wayne\source\repos\JBCodeSnippets\JBCodeSnippets\obj\Release\JBCodeSnippets.csproj.CoreCompileInputs.cache
+C:\Users\wayne\source\repos\JBCodeSnippets\JBCodeSnippets\obj\Release\JBCodeSnippets.dll
+C:\Users\wayne\source\repos\JBCodeSnippets\JBCodeSnippets\obj\Release\JBCodeSnippets.pdb
